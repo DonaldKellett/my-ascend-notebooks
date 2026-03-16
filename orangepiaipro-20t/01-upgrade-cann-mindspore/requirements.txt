@@ -1,3 +1,4 @@
+absl-py==2.4.0
 attrs==25.4.0
 cloudpickle==3.1.2
 decorator==5.2.1
