@@ -106,3 +106,7 @@ venv.bak/
 
 # MindNLP
 aclinit.json
+
+# Saved model files
+*.mindir
+*.onnx
