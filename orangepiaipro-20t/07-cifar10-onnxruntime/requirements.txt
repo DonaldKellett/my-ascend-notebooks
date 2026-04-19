@@ -2,6 +2,7 @@ absl-py==2.4.0
 attrs==25.4.0
 cloudpickle==3.1.2
 decorator==5.2.1
+huggingface-hub==1.11.0
 jupyterlab==4.5.6
 jupyterlab-git==0.52.0
 jupyter-resource-usage==1.2.0
