@@ -7,6 +7,8 @@ jupyterlab-git==0.52.0
 jupyter-resource-usage==1.2.0
 matplotlib==3.10.9
 ml-dtypes==0.5.4
+onnx==1.21.0
+onnxscript==0.7.0
 torch==2.8.0
 torch-npu==2.8.0
 pyyaml==6.0.3
