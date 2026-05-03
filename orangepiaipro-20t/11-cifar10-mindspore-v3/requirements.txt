@@ -1,0 +1,11 @@
+absl-py==2.4.0
+attrs==26.1.0
+cloudpickle==3.1.2
+decorator==5.2.1
+jupyterlab==4.5.7
+jupyterlab-git==0.53.0
+jupyter-resource-usage==1.2.1
+mindspore==2.8.0
+ml-dtypes==0.5.4
+sympy==1.14.0
+tornado==6.5.5
